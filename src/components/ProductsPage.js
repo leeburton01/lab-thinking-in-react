@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import jsonData from '../data.json';
 import SortButton from './SortButton';
+import SearchBar from './SearchBar';
 import ProductTable from './ProductTable';
 
 function ProductsPage() {
